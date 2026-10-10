@@ -67,7 +67,7 @@ Maven does not need to be installed. The project includes the Maven wrapper (`mv
 
 ```bash
 git clone https://github.com/Vaibhave52/AmazonProject
-cd ecommerce-app
+cd AmazonProject
 ```
 
 ### 2. Run the backend
